@@ -28,7 +28,7 @@ git clone https://github.com/Pedrohrlt/ALLTAX-Interview.git
 
 Entre na pasta do projeto:
 
-cd ALLTAX-Interview
+cd ALLTAX
 
 
 Instale as dependências:

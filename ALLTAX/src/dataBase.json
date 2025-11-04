@@ -1,0 +1,82 @@
+{
+  "categorias": [
+    {
+      "nome": "Frutas",
+      "produtos": [
+        {
+          "nome": "Maçã",
+          "marcas": ["Gala", "Fuji", "Verde"]
+        },
+        {
+          "nome": "Banana",
+          "marcas": ["Nanica", "Prata", "Ouro"]
+        }
+      ]
+    },
+    {
+      "nome": "Verduras",
+      "produtos": [
+        {
+          "nome": "Alface",
+          "marcas": ["Lisa", "Crespa", "Roxa"]
+        },
+        {
+          "nome": "Couve",
+          "marcas": ["Manteiga", "Mineira", "Verde"]
+        }
+      ]
+    },
+    {
+      "nome": "Legumes",
+      "produtos": [
+        {
+          "nome": "Tomate",
+          "marcas": ["Italiano", "Cereja", "Caqui"]
+        },
+        {
+          "nome": "Cenoura",
+          "marcas": ["Doce", "Holandesa", "Baby"]
+        }
+      ]
+    },
+    {
+      "nome": "Bebidas",
+      "produtos": [
+        {
+          "nome": "Suco",
+          "marcas": ["Del Valle", "Natural One", "Maguary"]
+        },
+        {
+          "nome": "Refrigerante",
+          "marcas": ["Coca-Cola", "Guaraná Antarctica", "Pepsi"]
+        }
+      ]
+    }
+  ],
+  "vendas": {
+    "Gala": [120, 140, 160, 180],
+    "Fuji": [100, 130, 110, 150],
+    "Verde": [80, 95, 100, 120],
+    "Nanica": [200, 220, 210, 230],
+    "Prata": [180, 190, 200, 210],
+    "Ouro": [160, 150, 170, 180],
+    "Lisa": [90, 100, 95, 110],
+    "Crespa": [120, 140, 135, 150],
+    "Roxa": [70, 85, 80, 90],
+    "Manteiga": [110, 120, 130, 125],
+    "Mineira": [95, 105, 115, 120],
+    "Verde": [100, 110, 120, 130],
+    "Italiano": [150, 170, 160, 180],
+    "Cereja": [130, 140, 135, 145],
+    "Caqui": [140, 150, 155, 160],
+    "Doce": [90, 100, 105, 115],
+    "Holandesa": [80, 95, 90, 100],
+    "Baby": [70, 85, 80, 95],
+    "Del Valle": [250, 260, 270, 290],
+    "Natural One": [220, 230, 240, 250],
+    "Maguary": [180, 190, 200, 210],
+    "Coca-Cola": [300, 310, 320, 330],
+    "Guaraná Antarctica": [280, 290, 300, 310],
+    "Pepsi": [270, 280, 275, 290]
+  }
+}
